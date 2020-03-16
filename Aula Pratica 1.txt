@@ -1,0 +1,8 @@
+ ====== AULA PRÁTICA 1 ======
+
+Alunos:
+               - Agatha Soares
+               - Wender Rodrigo
+
+Repositorio:
+https://github.com/testesoftwareufmg/tdd-project
